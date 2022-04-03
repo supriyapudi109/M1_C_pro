@@ -9,3 +9,4 @@ Build on Windows:
 [![Build CI - Windows](https://github.com/supriyapudi109/M1_C_pro/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/supriyapudi109/M1_C_pro/actions/workflows/c-cpp.yml)
 
 cpp check analysis
+[![Analysis](https://github.com/supriyapudi109/M1_C_pro/actions/workflows/analysis.yml/badge.svg)](https://github.com/supriyapudi109/M1_C_pro/actions/workflows/analysis.yml)

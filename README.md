@@ -10,3 +10,6 @@ Build on Windows:
 
 cpp check analysis
 [![Analysis](https://github.com/supriyapudi109/M1_C_pro/actions/workflows/analysis.yml/badge.svg)](https://github.com/supriyapudi109/M1_C_pro/actions/workflows/analysis.yml)
+https://api.codiga.io/project/33050/score/svg
+![image](https://user-images.githubusercontent.com/101494791/164715653-4b81df26-7ffc-4412-8c29-2364a80eaa7e.png)
+![image](https://user-images.githubusercontent.com/101494791/164715712-676bb3ef-672c-4c45-baa0-7e65dc44e0e4.png)
